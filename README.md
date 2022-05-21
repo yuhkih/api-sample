@@ -1,4 +1,7 @@
-# nginx container based on ubi8
-simple nginx on ubi8
-It will work on OpenShift with non-root
 # api-sample
+
+ubi8 と ngix を使用
+API のデモ用にそれっぽい JSONを返すだけのサンプル
+LISTEN Port は 80
+
+
