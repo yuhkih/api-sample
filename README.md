@@ -9,7 +9,7 @@ LISTEN Port は 80
 ```
 { "name": "Taro", "age": 14 },
 { "name": "Jiro", "age": 5 },
-{ "name": "Ken", "age": 83
+{ "name": "Ken", "age": 83 }
 ```
 
 データのモチーフは南極物語より。
